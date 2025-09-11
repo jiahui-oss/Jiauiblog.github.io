@@ -121,9 +121,9 @@ def cal():
                 exo = str(v[0]) if v else 'NaN'
                 #print(f"{exp} = {exo}")
                 op()
-                print(\n\nt\n\n)
+                print(f"\n\n{t}\n\n")
                 tim()
-                print(tst\n\n)
+                print(f"{tst}\n\n")
                 tim()
                 print(f"{exp} = {exo}\n\n")
 #还是补了一个🤣🤣🤣
